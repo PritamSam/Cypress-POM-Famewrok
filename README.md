@@ -2,13 +2,14 @@
 This repository describes Cypress POM Automation Framework
 
 Pre-requesites - 
+```
 npm install cypress --save-dev
 npm run cypress
 npm install --save-dev mochawesome
 npm install --save-dev mochawesome-merge
 npm install --save-dev mochawesome-report-generator
 npm install --save-dev allure-cypress allure-commandline
-
+```
 ```
 To Run this project , run below command in terminal-
 npm run test:search
