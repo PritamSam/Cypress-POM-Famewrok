@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "clean": "node scripts/clean-reports.js",
+    "test": "cypress run",
+    "test:search": "cypress run --spec cypress/e2e/search/search.cy.js",
+    "test:filter": "cypress run --spec cypress/e2e/filter/filter.cy.js",
+    "mocha:merge": "npx mochawesome-merge reports/mochawesome/*.json > reports/mochawesome/output.json",
+    "mocha:report": "npx marge reports/mochawesome/output.json -f mochawesome -o reports/mochawesome",
+    "allure:generate": "allure generate reports/allure-results --clean -o reports/allure-report",
+    "allure:open": "allure open reports/allure-report"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.43.0",
+    "allure-cypress": "^3.10.1",
+    "cypress": "^15.18.0",
+    "dayjs": "^1.11.21",
+    "mochawesome": "^1.5.5",
+    "mochawesome-merge": "^5.1.1",
+    "mochawesome-report-generator": "^6.3.2",
+    "rimraf": "^6.1.3"
+  }
+}

@@ -1,0 +1,16 @@
+2026-06-25T06:39:16.861Z - INFO: Navigated to Flipkart
+2026-06-25T06:39:16.963Z - INFO: Searching for TV
+2026-06-25T06:39:20.830Z - ====================================
+2026-06-25T06:39:20.856Z - SUCCESS: Total Products Found: 24
+2026-06-25T06:39:24.913Z - SUCCESS: Product count validation passed
+2026-06-25T06:39:24.940Z - ====================================
+2026-06-25T06:39:27.681Z - INFO: Navigated to Flipkart
+2026-06-25T06:39:27.791Z - INFO: Searching for TV
+2026-06-25T06:39:31.503Z - INFO: Clicking Low to High Sort
+2026-06-25T06:39:31.674Z - ====================================
+2026-06-25T06:39:31.708Z - SUCCESS: Lowest Product: Add to CompareVW 60 cm (24 inch) HD Ready LED TV 2025 Edition41,651 Ratings & 183 ReviewsHD Ready | LEDModel ID: VW24ALaunch Year: 2025Total Sound Output: 20 W1 year warranty on product₹5,499₹11,00050% offHot DealUpto ₹2,090 Off on Exchange
+2026-06-25T06:39:31.753Z - SUCCESS: Lowest Price: ₹5499
+2026-06-25T06:39:31.776Z - SUCCESS: Highest Product: Add to CompareMOTOROLA 218 cm (85 inch) Ultra HD (4K) Mini LED Smart Google TV 2026 Edition with QD Mini LED, 220 Lo...4.41,292 Ratings & 148 ReviewsUltra HD (4K) | Mini LEDModel ID: 85UHDGMMWBIQLaunch Year: 2026Total Sound Output: 50 W1 year Warranty on Product for Manufacturing Defects (Applicable only in INDIA)₹1,14,999₹2,64,99956% offUpto ₹12,720 Off on ExchangeBank Offer
+2026-06-25T06:39:31.804Z - SUCCESS: Highest Price: ₹114999
+2026-06-25T06:39:31.828Z - ====================================
+2026-06-25T06:39:37.571Z - SUCCESS: Price validation passed
