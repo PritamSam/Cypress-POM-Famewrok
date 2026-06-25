@@ -1,6 +1,24 @@
 # Cypress-POM-Famewrok
 This repository describes Cypress POM Automation Framework
 
+Pre-requesites - 
+npm install cypress --save-dev
+npm run cypress
+npm install --save-dev mochawesome
+npm install --save-dev mochawesome-merge
+npm install --save-dev mochawesome-report-generator
+npm install --save-dev allure-cypress allure-commandline
+
+```
+To Run this project , run below command in terminal-
+npm run test:search
+or
+npm run cypress
+To Genearte and view report -
+npm run allure:generate
+npm run allure:open
+```
+
 Project Overflow -
 ```
 npx cypress run / npx cypress open
