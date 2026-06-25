@@ -4,7 +4,7 @@ This repository describes Cypress POM Automation Framework
 Pre-requesites - 
 ```
 npm install cypress --save-dev
-npm run cypress
+npx cypress open
 npm install --save-dev mochawesome
 npm install --save-dev mochawesome-merge
 npm install --save-dev mochawesome-report-generator
