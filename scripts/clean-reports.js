@@ -3,6 +3,7 @@ const path = require("path");
 
 const folders = [
     "reports",
+    "logs",
     "cypress/screenshots",
     "cypress/videos"
 ];
