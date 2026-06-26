@@ -18,6 +18,8 @@ npm run cypress
 To Genearte and view report -
 npm run allure:generate
 npm run allure:open
+To Delete Screenshots/Vidoes/allure-report/logs
+npm run clean
 ```
 
 Project Overflow -
